@@ -1,0 +1,11 @@
+name: app-1
+title: app-1
+account: sanjmeh
+server: shinyapps.io
+appId: 185131
+bundleId: 848300
+url: https://sanjmeh.shinyapps.io/app-1/
+when: 1496297296.24964
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: learniat_variables_copy
